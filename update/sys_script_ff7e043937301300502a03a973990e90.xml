@@ -19,7 +19,7 @@
         <filter_condition/>
         <is_rest>false</is_rest>
         <message/>
-        <name>NeedIt Debuggong Practice</name>
+        <name>NeedIt Debugging Practice</name>
         <order>100</order>
         <priority>100</priority>
         <rest_method/>
@@ -70,15 +70,15 @@ callFunc.getNum();
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>ff7e043937301300502a03a973990e90</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>NeedIt Debuggong Practice</sys_name>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>NeedIt Debugging Practice</sys_name>
         <sys_overrides/>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sys_script_ff7e043937301300502a03a973990e90</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-12 19:12:38</sys_updated_on>
+        <sys_updated_on>2018-05-07 15:32:29</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
